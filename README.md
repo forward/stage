@@ -1,4 +1,4 @@
 stage
 =====
 
-Show interface for lighting and automation control, written in Ruby.
+Show interface for DMX lighting and automation control using RS-232 and RS-485, written in Ruby.

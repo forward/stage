@@ -1,0 +1,1 @@
+encoder: RACK_ENV=production ./scripts/encoder.rb
